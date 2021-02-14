@@ -1,0 +1,5 @@
+name: SkyDeath
+version: 1.0
+author: SirCherry
+main: me.sircherry.skydeath.SkyDeath
+api-version: 1.16
